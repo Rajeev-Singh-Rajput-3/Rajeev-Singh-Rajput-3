@@ -1,6 +1,6 @@
 🔭 I’m currently working on my mistakes to improve myself
 
-🌱 I’m currently learning nodesjs
+🌱 I’m currently learning nodejs
 
 👯 I’m looking to collaborate on big projects
 
